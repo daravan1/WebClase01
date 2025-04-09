@@ -1,11 +1,6 @@
-# Welcome to your Jupyter Book
+# Jupyter Book de Dara Van Gijsel
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+Soy estudiante de sexto ciclo de la carrera de Ingeniería en Ciencias de la Computación. A lo largo de mi formación he desarrollado habilidades en programación, resolución de problemas, estructuras de datos y bases de datos. Me interesa la aplicación práctica de la tecnología para resolver necesidades reales, y actualmente me encuentro fortaleciendo mis conocimientos en desarrollo de software, inteligencia artificial y análisis de datos. Me motiva seguir aprendiendo y participar en proyectos que me permitan crecer profesional y personalmente.
 
 ```{tableofcontents}
 ```
