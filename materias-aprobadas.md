@@ -12,10 +12,9 @@ Estas materias reflejan la formación teórica y práctica adquirida en áreas f
 Programación
 ^^^
 Programación desde Introduccion a la Programación hasta Programación Avanzada
-^^^
+
 Base de Datos desde Introduccion a las Base de Datos hasta Base de Datos Avanzada
-^^^
+
 Matemáticass desde Fundamentos de matemáticas hasta Metodos Numericos
 +++
-Card footer 1
 ````
